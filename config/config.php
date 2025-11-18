@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'app_name' => 'My Simple App',
+    'app_name' => 'My Simple test App',
 ];
